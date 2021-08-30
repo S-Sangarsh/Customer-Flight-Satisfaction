@@ -62,3 +62,6 @@ Satisfaction(Target Variable) : Airline satisfaction level(Satisfaction, neutral
 **XGBoost and Random Forest with Tuned Parameter which gaves accuracy as 95% and other are evaluation score are also similar so we can conclude that 
 they are the best model for deployment.**
 
+
+
+# Click <a href="https://github.com/S-Sangarsh/Flight-Customer-Satisfaction/blob/main/Customer%20Flight%20Satisfaction.ipynb">here</a> for notebook.
