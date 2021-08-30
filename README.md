@@ -1,6 +1,7 @@
+<img src='Customer-Satisfaction-Surveys.jpg' width="850" height="400"></img>
 
 
-# Problem Statement
+# Problem Statement:
 **To understand the experience of Passengers, "SERVE QUALITY" and their level of satisfaction with the flight services availed by them very cruical for Airlines Performance.This performance indicator assists airlines companies in managing and monitoring their business effectively.**
 
 #### Click <a href="https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction">here</a> for data.
@@ -51,6 +52,9 @@ Departure Delay in Minutes: Minutes delayed when departure
 Arrival Delay in Minutes: Minutes delayed when Arrival
 
 Satisfaction(Target Variable) : Airline satisfaction level(Satisfaction, neutral/dissatisfaction)
+
+
+# Conclusion:
 
 
 <img src="2021-08-30 (2).png">
