@@ -1,5 +1,5 @@
 
-<img src=
+
 # Problem Statement
 **To understand the experience of Passengers, "SERVE QUALITY" and their level of satisfaction with the flight services availed by them very cruical for Airlines Performance.This performance indicator assists airlines companies in managing and monitoring their business effectively.**
 
@@ -53,6 +53,7 @@ Arrival Delay in Minutes: Minutes delayed when Arrival
 Satisfaction(Target Variable) : Airline satisfaction level(Satisfaction, neutral/dissatisfaction)
 
 
+<img src="2021-08-30 (2).png">
 
 **XGBoost and Random Forest with Tuned Parameter which gaves accuracy as 95% and other are evaluation score are also similar so we can conclude that 
 they are the best model for deployment.**
